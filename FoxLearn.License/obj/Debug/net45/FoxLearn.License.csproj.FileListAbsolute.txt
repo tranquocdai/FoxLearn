@@ -1,0 +1,6 @@
+d:\CsharpProject\FoxLearn.License\bin\Debug\net45\DMLicense.dll
+d:\CsharpProject\FoxLearn.License\bin\Debug\net45\DMLicense.pdb
+d:\CsharpProject\FoxLearn.License\obj\Debug\net45\FoxLearn.License.csproj.AssemblyReference.cache
+d:\CsharpProject\FoxLearn.License\obj\Debug\net45\FoxLearn.License.csproj.CoreCompileInputs.cache
+d:\CsharpProject\FoxLearn.License\obj\Debug\net45\DMLicense.dll
+d:\CsharpProject\FoxLearn.License\obj\Debug\net45\DMLicense.pdb
